@@ -1704,7 +1704,7 @@ body {
   height: 13rem;
   width: 100%;
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
-  --tw-gradient-from: rgb(202 39 39/ 0.25) var(--tw-gradient-from-position);
+  --tw-gradient-from: rgb(39 117 202/ 0.25) var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(39 117 202/ 0.05) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
@@ -1760,7 +1760,7 @@ body {
   height: 24rem;
   width: 100%;
   background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));
-  --tw-gradient-from: rgb(202 39 39/ 0.2) var(--tw-gradient-from-position);
+  --tw-gradient-from: rgb(39 117 202/ 0.2) var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(39 117 202/ 0.05) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
@@ -2520,7 +2520,7 @@ body {
   border-width: 2px;
   border-color: rgb(39 117 202 / 0.8);
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
-  --tw-gradient-from: rgb(202 39 39 / 0.3) var(--tw-gradient-from-position);
+  --tw-gradient-from: rgb(39 117 202 / 0.3) var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(39 117 202/ 0.1) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
   padding-bottom: 1.25rem;
@@ -2532,7 +2532,7 @@ body {
   padding-left: 2rem;
   padding-right: 2rem;
   transition: all 0.2s ease-in-out;
-  box-shadow: 0 0 100px rgba(202, 39, 39, 1);
+  box-shadow: 0 0 100px rgba(39, 117, 202, 1);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
@@ -2795,7 +2795,7 @@ body {
   border-width: 2px;
   border-color: rgb(39 117 202 / 0.8);
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
-  --tw-gradient-from: rgb(202 39 39 / 0.3) var(--tw-gradient-from-position);
+  --tw-gradient-from: rgb(39 117 202 / 0.3) var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(39 117 202/ 0.1) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
   padding-bottom: 1.25rem;
@@ -2807,7 +2807,7 @@ body {
   padding-left: 2rem;
   padding-right: 2rem;
   transition: all 0.2s ease-in-out;
-  box-shadow: 0 0 100px rgba(202, 39, 39, 1);
+  box-shadow: 0 0 100px rgba(39, 117, 202, 1);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
