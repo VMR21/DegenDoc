@@ -13,13 +13,13 @@ body {
 
 /* Card container */
 .MuiBox-root.css-1o7r9kk {
-  border-color: rgb(202, 39, 39);
+  border-color: rgb(39, 117, 202);
   border-width: 2px;
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
-  --tw-gradient-from: rgb(202 39 39 / 0.5) var(--tw-gradient-from-position);
+  --tw-gradient-from: rgb(39 117 202 / 0.5) var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(39 117 202/ 0.2) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-  box-shadow: 0 0 100px rgba(202, 39, 39, 1);
+  box-shadow: 0 0 100px rgba(39, 117, 202, 1);
   border-radius: 8px;
   padding: 20px;
   width: 300px;
@@ -117,7 +117,7 @@ body {
   width: 100%;
   text-align: center;
   padding: 10px 0;
-  background-color: #ca2727;
+  background-color: #2775ca;
   /* Discord color */
   color: #000;
   text-decoration: none;
@@ -129,7 +129,7 @@ body {
 
 .signup-button:hover {
   background-color: #000;
-  color: #ca2727;
+  color: #2775ca;
   /* Keeps the text color white on hover */
   text-decoration: none;
   /* Ensures the underline doesn't appear on hover */
@@ -180,9 +180,9 @@ body {
   border: 1px solid #e0e0e0;
   border-radius: 5px;
   transition: background-color 0.3s;
-  border-color: rgb(202, 39, 39);
+  border-color: rgb(39, 117, 202);
   background: linear-gradient(to top, var(--tw-gradient-stops));
-  --tw-gradient-from: rgb(202 39 39/ 0.1) var(--tw-gradient-from-position);
+  --tw-gradient-from: rgb(39 117 202/ 0.1) var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(39 117 202/ 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
